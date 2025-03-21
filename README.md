@@ -2,11 +2,8 @@
 
 **Security and Reliability Project 1, Phase 1**
 
-## Group 9:
+## Author:
 - **Duarte Carvalho** (fc59801) - 33.3%
-- **Rodrigo Freitas** (fc59868) - 33.3%
-- **Tiago Lourenço** (fc59877) - 33.3%
-
 ---
 
 ## Compilation
