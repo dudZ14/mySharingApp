@@ -3,7 +3,7 @@
 **Security and Reliability Project 1, Phase 1**
 
 ## Author:
-- **Duarte Carvalho** (fc59801) - 33.3%
+- **Duarte Carvalho** 
 ---
 
 ## Compilation
